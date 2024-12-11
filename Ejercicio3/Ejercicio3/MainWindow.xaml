@@ -1,0 +1,15 @@
+﻿<Window x:Class="ComboBoxToolTip.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ComboBox con ToolTip" Height="200" Width="400">
+    <Grid>
+        <ComboBox Name="cbColores" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200">
+            <!-- Opción Rojo con ToolTip -->
+            <ComboBoxItem Content="Rojo" ToolTip="Rojo: Color de alerta"/>
+            <!-- Opción Verde con ToolTip -->
+            <ComboBoxItem Content="Verde" ToolTip="Verde: Color de calma y naturaleza"/>
+            <!-- Opción Azul con ToolTip -->
+            <ComboBoxItem Content="Azul" ToolTip="Azul: Color de serenidad y tranquilidad"/>
+        </ComboBox>
+    </Grid>
+</Window>

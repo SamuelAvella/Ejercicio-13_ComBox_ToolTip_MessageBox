@@ -1,0 +1,10 @@
+﻿<Window x:Class="ToolTipFormulario.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Formulario de Edad" Height="200" Width="300">
+    <Grid>
+        <!-- TextBox para ingresar la edad -->
+        <TextBox Name="txtEdad" HorizontalAlignment="Center" VerticalAlignment="Center" Width="200" Height="30" ToolTip="Introduce tu edad (solo números)">
+        </TextBox>
+    </Grid>
+</Window>

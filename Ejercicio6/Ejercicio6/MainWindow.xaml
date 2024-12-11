@@ -1,0 +1,18 @@
+﻿<Window x:Class="SelecciónTema.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Selección de Tema" Height="300" Width="400">
+    <Grid>
+        <!-- ComboBox para seleccionar el tema -->
+        <ComboBox Name="cbTemas" HorizontalAlignment="Center" VerticalAlignment="Top" Width="200" Margin="10" SelectionChanged="ComboBox_SelectionChanged">
+            <ComboBoxItem Content="Claro" ToolTip="Fondo blanco con texto negro, ideal para luz diurna."/>
+            <ComboBoxItem Content="Oscuro" ToolTip="Fondo negro con texto blanco, ideal para ambientes oscuros."/>
+            <ComboBoxItem Content="Azul" ToolTip="Fondo azul con texto blanco, para un diseño moderno y limpio."/>
+        </ComboBox>
+
+        <!-- TextBlock para mostrar el mensaje -->
+        <TextBlock Name="tbTexto" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16" Margin="10">
+            Este es un texto de prueba.
+        </TextBlock>
+    </Grid>
+</Window>

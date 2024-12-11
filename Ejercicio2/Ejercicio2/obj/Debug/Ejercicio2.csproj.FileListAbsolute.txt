@@ -1,0 +1,14 @@
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-13_ComBox_ToolTip_MessageBox\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-13_ComBox_ToolTip_MessageBox\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-13_ComBox_ToolTip_MessageBox\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-13_ComBox_ToolTip_MessageBox\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-13_ComBox_ToolTip_MessageBox\Ejercicio2\Ejercicio2\obj\Debug\MainWindow.baml
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-13_ComBox_ToolTip_MessageBox\Ejercicio2\Ejercicio2\obj\Debug\MainWindow.g.cs
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-13_ComBox_ToolTip_MessageBox\Ejercicio2\Ejercicio2\obj\Debug\App.g.cs
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-13_ComBox_ToolTip_MessageBox\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2_MarkupCompile.cache
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-13_ComBox_ToolTip_MessageBox\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.g.resources
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-13_ComBox_ToolTip_MessageBox\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-13_ComBox_ToolTip_MessageBox\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-13_ComBox_ToolTip_MessageBox\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-13_ComBox_ToolTip_MessageBox\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+D:\2DAM\DI\C#\EjControlesBasicos\Ejercicio-13_ComBox_ToolTip_MessageBox\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
